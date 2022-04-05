@@ -1,0 +1,44 @@
+[
+  {
+    "id": "abcd1",
+    "name": "James Goldstein",
+    "reviewText": "Fantastic camera, a real workhorse! SIII is a great camera (I own one), but it overheats in the sun at 60P. So if you do a lot of outdoor live events, this is the camera you want! I do 12 hour days with this camera all the time. ",
+    "ratings": "5",
+    "img": "https://images.unsplash.com/photo-1534308143481-c55f00be8bd7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1330&q=80"
+  },
+  {
+    "id": "abcd2",
+    "name": "Dillon Lin",
+    "reviewText": "If you have unlimited money. this is a decent camera for the value.Most platforms format footage to be worse quality than this camera, so there is no point paying this much for the high resolution/framerate of this camera if the social media platforms downgrade it.",
+    "ratings": "4.5",
+    "img": "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "abcd3",
+    "name": "Henry KD",
+    "reviewText": "Great camera! Cinema line series. The video quality is extremely good, especially at night. This camera will not disappoint, also comes with an external mic handle which is great for directing and amazing sound quality. Does not come with a mics!",
+    "ratings": "5",
+    "img": "https://images.unsplash.com/photo-1474176857210-7287d38d27c6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": "abcd4",
+    "name": "Jonathan",
+    "reviewText": "When you take photos, the shutter sounds weird comparing with my a7iii. The camera body was warm after using for 15mins, and the heat was coming from the air vent.",
+    "ratings": "4",
+    "img": "https://images.unsplash.com/photo-1543610892-0b1f7e6d8ac1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+  },
+  {
+    "id": "abcd5",
+    "name": "Richard Mukasa",
+    "reviewText": "The video quality is extremely good, especially at night. This camera will not disappoint, also comes with an external mic handle which is great for directing and amazing sound quality. Does not come with a mic.",
+    "ratings": "5",
+    "img": "https://images.unsplash.com/photo-1609010697446-11f2155278f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+  },
+  {
+    "id": "abcd6",
+    "name": "BunnyMuffins",
+    "reviewText": "Coming from the Blackmagic pocket 4k I thought I would enjoy the connivence of better battery life, amazing autofocus and smaller form factor.The colour science with slog-3 was a let down as well as the overly digital look it had. ",
+    "ratings": "4.5",
+    "img": "https://images.unsplash.com/photo-1528763380143-65b3ac89a3ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=389&q=80"
+  }
+]
